@@ -1,7 +1,7 @@
 import time
 from time import sleep
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
-import allure
+
 
 from pages import video_page
 from pages.login_page import LoginPage
